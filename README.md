@@ -17,4 +17,5 @@
 16.include joi package for schema validation
 17.creates 'schema.js' file for validate the schema
 
-Created by Rohit Mali.
+
+Created by Rushikesh Patil
