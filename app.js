@@ -21,7 +21,7 @@ main()
         console.log(err);
     });
 
-async function main(){
+asyc function main(){
     await mongoose.connect(MONGO_URL);
 }
 
